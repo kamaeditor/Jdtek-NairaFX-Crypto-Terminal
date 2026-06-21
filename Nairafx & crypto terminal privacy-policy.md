@@ -62,10 +62,6 @@ For questions regarding this policy or to exercise your data rights:
 **Email:** support@jdtek.com.ng
 **Website:** [Jdtek.com.ng](https://Jdtek.com.ng)
 
----
 
-### Pro-Tips for your Play Store Listing:
 
-* **Update the Link:** Remember to replace the old URL in your Google Play Console (under **Store Presence > Store Listing**) with the link to this updated policy [1.1.3].
-* **Financial Declaration:** Ensure you have completed the **Financial Features Declaration** in the Google Play Console, as this is now a mandatory requirement for apps providing financial data or signals [1.2.3].
-* **In-App Access:** Ensure that a link to this policy is easily accessible within your app's "Settings" or "About" menu [1.1.1].
+
